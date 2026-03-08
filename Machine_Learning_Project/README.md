@@ -2,5 +2,5 @@
 
 For this project KNIME has been used.
 
-For understanding the process applied to the data and the result, we the report.pdf file. 
+For understanding the process applied to the data and the result, read the report.pdf file. 
 
